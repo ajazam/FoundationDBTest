@@ -1,6 +1,6 @@
-#FoundationDB java test application
+# FoundationDB java test application
 
-This is my first attempt at talking to foundationDB via Java.
+This is my first attempt at talking to FoundationDB via Java.
 
 It uses gradle as the build system and creates an uber jar by calling the gradle assemble task.
 
